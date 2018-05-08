@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">HnM</string>
+    <string name="bmi2">::Health and Vitality Diet Plan
+
+        Breakfast Diet Plan Balance with Red Fruit cereal, a glass of fruit smoothie and a yogurt
+Lunch
+Chicken tikka breast slices with coriander on multi-seeded bread with a fruity cereal bar and satsuma
+Dinner
+Fresh haddock fish cakes with new potatoes and a tomato salad with dressing. A glass of white wine.
+Snacks
+Crispbread snack with soft cheese topping and a bowl of fresh strawberries</string>
+    <string name="bmi3">
+::Feel fuller diet plan
+breakfast
+Beans on toast with a glass of milk and bowl of fresh strawberries
+lunch
+Smoked salmon, soft cheese and watercress filled bagel with yogurt and nectarine
+dinner
+Salmon fillet in watercress sauce with new potatoes, asparagus spears and carrots. Yogurt biscuit dessert
+snacks
+Half a galia melon and toffee coated popcorn snack
+</string>
+    <string name="bmi4">::VEGETARIAN DIET PLAN
+BREAKFAST
+Diet Plan raisin wheats breakfast cereal, a glass of grapefruit juice and satsuma
+LUNCH
+Fresh carrot and coriander soup with multi-seeded bread, half a melon and yogurt
+SNACKS
+Vegetable stuffed spuds with a watercress and tomato salad and dressing. A yogurt dessert plus a bunch of seedless grapes
+DINNER
+Crispbread snack with low fat spread and seedless grapes plus a handful of whole almonds</string>
+
+
+    <string name="bmi1">
+::REDUCED FAT DIET PLAN
+BREAKFAST
+Diet Plan raisin wheats breakfast cereal with banana chips and  fresh raspberries
+LUNCH
+Turkey and tomato salad wholemeal sandwich with a chocolate mousse and piece of fruit
+SNACKS
+Italian Meatball bolognese with wholewheat pasta and a piece of fruit for dessert
+DINNER
+Wholemeal Toast, Yogurt, Strawberries
+</string>
+
+
+    <string-array name="nearby_gyms">
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+        <item> GYM A</item>
+
+    </string-array>
+
+
+
+
+    <string name="ustrasan">Benefits of Camel Pose:
+Reduces fat on thighs.
+Opens up the hips, stretching deep hip flexors.
+Stretches and strengthens the shoulders and back.
+Expands the abdominal region, improving digestion and elimination.
+</string>
+
+    <string name="chakrasan">
+        Benefits of snake pose:
+Strengthens your spine
+Stimulates abdominal organs
+Reduces belly fat
+Manage stress
+Improves circulation
+</string>
+    <string name="bhujangaasan">
+      Benefits of Chakrasana:
+Strengthens liver, pancreas and kidneys.
+Excellent for heart.
+Good for infertility, asthma and osteoporosis.
+Strengthens arms, shoulders, hands, wrists and legs.
+Stretches the chest and lungs.
+Strengthens the arms and wrists, legs.
+</string>
+     <string name="suryanamaskar">
+      benefits of sn:
+Helps lose weight
+Helps strengthen muscles and joints
+Gives glowing skin
+Ensures a better functioning digestive system
+</string>
+
+</resources>
